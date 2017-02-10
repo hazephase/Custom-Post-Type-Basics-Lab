@@ -1,18 +1,18 @@
 <?php
 /**
- * Team Bios Plugin
+ * Custom Post type 
  *
- * @package     KnowTheCode\TeamBios
- * @author      hellofromTonya
+ * @package     custom post type
+ * @author      Elroy
  * @license     GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name: Team Bios Plugin
+ * Plugin Name: Custom Post type
  * Plugin URI:  https://knowthecode.io/labs/lets-build-wordpress-starter-plugin
- * Description: Team Bios functionality and custom post type for the Custom Post Type Basics Labs
+ * Description: basic custom post type to be used for different projects
  * Version:     1.0.1
- * Author:      hellofromTonya
- * Author URI:  https://knowthecode.io
+ * Author:      Elroy Fernandes
+ * Author URI:  https://ielly.com
  * Text Domain: teambios
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
